@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"isbn": "978",
+		"title": "JavaScript, Second Edition",
+		"subtitle": "A Modern Introduction to Programming"
+	},
+	{
+		"id": 2,
+		"isbn": "979",
+		"title": "Perl, First Edition",
+		"subtitle": "A Modern Introduction to Programming"
+	},
+	{
+		"id": 3,
+		"isbn": "980",
+		"title": "Ruby on Rails, Third Edition",
+		"subtitle": "A Modern Introduction to Programming"
+	},
+	{
+		"id": 4,
+		"isbn": "981",
+		"title": "Magento, Second Edition",
+		"subtitle": "A Modern Introduction to Programming"
+	}
+]
